@@ -1,0 +1,13 @@
+{
+  "question": "Who must authorize telecommuting?",
+  "expected_passage": "2. Remote work requires approval from the employee's manager.",
+  "retrieved_passages": [
+    "3. Company laptops must use full-disk encryption.",
+    "4. Lost laptops must be reported to IT within one hour.",
+    "5. Employees must not upload confidential documents to unapproved AI services."
+  ],
+  "finding": "Retrieval missed the evidence, causing abstention on a question answerable from the full policy.",
+  "context_sent_to_model": "3. Company laptops must use full-disk encryption.\n4. Lost laptops must be reported to IT within one hour.",
+  "model_answer": "The context does not specify this.",
+  "expected_answer": "The employee's manager."
+}
