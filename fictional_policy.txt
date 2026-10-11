@@ -1,0 +1,7 @@
+FICTIONAL COMPANY POLICY — LAB USE ONLY
+
+1. Employees may work remotely up to three days per week.
+2. Remote work requires approval from the employee's manager.
+3. Company laptops must use full-disk encryption.
+4. Lost laptops must be reported to IT within one hour.
+5. Employees must not upload confidential documents to unapproved AI services.

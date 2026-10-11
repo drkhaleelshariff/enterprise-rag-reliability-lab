@@ -1,0 +1,15 @@
+{
+  "retrieved_context_test": {
+    "question": "What is the annual work-from-home allowance?",
+    "retrieved_context": "2. Remote work requires approval from the employee's manager.\n1. Employees may work remotely up to three days per week.",
+    "model": "phi3:mini",
+    "answer": "The context does not specify this.",
+    "observation": "Correctly abstained in this run."
+  },
+  "empty_retrieval_test": {
+    "question": "What dental benefits are provided?",
+    "retrieved_passages": [],
+    "answer": "No matching policy passages were found. I cannot answer.",
+    "model_called": false
+  }
+}

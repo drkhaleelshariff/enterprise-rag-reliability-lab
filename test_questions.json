@@ -1,0 +1,17 @@
+[
+  {
+    "question": "How many days per week may employees work remotely?",
+    "answerable": true,
+    "expected_answer": "Up to three days per week."
+  },
+  {
+    "question": "What is the annual work-from-home allowance?",
+    "answerable": false,
+    "expected_answer": "The policy does not specify an allowance."
+  },
+  {
+    "question": "What dental benefits are provided?",
+    "answerable": false,
+    "expected_answer": "The policy does not specify dental benefits."
+  }
+]
