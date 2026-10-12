@@ -9,5 +9,10 @@
   "finding": "Retrieval missed the evidence, causing abstention on a question answerable from the full policy.",
   "context_sent_to_model": "3. Company laptops must use full-disk encryption.\n4. Lost laptops must be reported to IT within one hour.",
   "model_answer": "The context does not specify this.",
-  "expected_answer": "The employee's manager."
+  "expected_answer": "The employee's manager.",
+  "manual_evidence_control": {
+    "context": "2. Remote work requires approval from the employee's manager.",
+    "model_answer": "The employee's manager",
+    "observation": "Correct answer when evidence was supplied manually."
+  }
 }
