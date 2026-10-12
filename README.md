@@ -26,3 +26,14 @@ python -m jupyterlab
 
 Open `01_rag_abstention.ipynb` and run the cells from top to bottom.
 The notebook writes local result files. Model responses may vary.
+
+## Observed retrieval failure
+
+For “Who must authorize telecommuting?”, word matching retrieved
+unrelated passages and missed the manager-approval rule.
+
+The model abstained with that retrieved context. When the correct
+passage was supplied manually, it answered “The employee's manager.”
+
+This single test illustrates how retrieval failure can cause an
+answerable question to go unanswered.
