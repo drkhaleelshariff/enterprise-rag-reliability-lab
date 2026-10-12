@@ -9,7 +9,7 @@ A small learning experiment using a fictional company policy and a local phi3:mi
 - Skipping model generation when retrieval returns no matches.
 
 ## Limitations
-This pilot contains three test questions. Word overlap does not prove answer support. These examples do not establish production reliability or general model performance.
+This pilot contains four test questions. Word overlap does not prove answer support. These examples do not establish production reliability or general model performance.
 
 ## Run the lab on Windows
 

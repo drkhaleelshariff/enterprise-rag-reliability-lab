@@ -13,5 +13,10 @@
     "question": "What dental benefits are provided?",
     "answerable": false,
     "expected_answer": "The policy does not specify dental benefits."
+  },
+  {
+    "question": "Who must authorize telecommuting?",
+    "answerable": true,
+    "expected_answer": "The employee's manager."
   }
 ]
